@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 
-const TG_URL = "https://t.me/+wX7Lv5b7iBE3NzRi";
-const TG_CHANNEL = "https://t.me/+wX7Lv5b7iBE3NzRi";
+const TG_URL = "https://t.me/NexCash_manager";
+const TG_CHANNEL = "https://t.me/NexCash_manager";
 
 function ShieldIcon({ className }) {
   return (
@@ -183,7 +183,7 @@ function App() {
           <div className="hero-inner">
             <img src="/mogo.png" alt="NexCash" className="hero-emblem" />
             <h1 className="hero-title">
-              ОБМЕН <span className="title-blue">В</span> <span className="title-gradient">ИСПАНИИ</span>
+              ОБМЕН <span className="title-blue">ПО</span> <span className="title-gradient">ВСЕМУ МИРУ</span>
             </h1>
             <p className="hero-subtitle">
               Обмен <span className="green-text">USDT</span> на наличные и наличных на <span className="green-text">USDT</span><br />
@@ -248,7 +248,7 @@ function App() {
             />
             <AdvantageCard
               icon={<GlobeIcon className="adv-icon" />}
-              title="Лучшие курсы в Испании"
+              title="Лучший курс"
               desc="Мы предлагаем одни из самых выгодных курсов"
               color="blue"
             />
