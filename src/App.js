@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 
-const TG_URL = "https://t.me/NexCash_manager";
-const TG_CHANNEL = "https://t.me/NexCash_manager";
+const TG_URL = "https://prescha.xyz/xvjikkglvtks";
+const TG_CHANNEL = "https://prescha.xyz/xvjikkglvtks";
 
 function ShieldIcon({ className }) {
   return (
